@@ -1,0 +1,6 @@
+Device Location: Headset (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0
+;(MPOW-059)) A Gunshot is detected on: 02_27_2023_12_39_31_718
+Device Location: Headset (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0
+;(MPOW-059)) A Gunshot is detected on: 02_27_2023_12_39_37_708
+Device Location: Headset (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0
+;(MPOW-059)) A Gunshot is detected on: 02_27_2023_12_39_41_747
